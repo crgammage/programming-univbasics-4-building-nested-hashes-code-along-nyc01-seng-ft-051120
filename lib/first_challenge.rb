@@ -11,7 +11,8 @@ def first_challenge
        }
        :hero => {
          :name => "Romeo"
-         :age =>
+         :age => "15"
+         :status => "alive"
        }
        :hero_friends => []
      }
