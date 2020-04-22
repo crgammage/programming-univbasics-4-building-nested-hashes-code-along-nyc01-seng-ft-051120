@@ -9,6 +9,10 @@ def first_challenge
       :name => "Lady Montague",
       :age => "54"
   },
+  :hero => {
+      :name => "Romeo",
+      :age => "15"
+  },
      }
    }
 end
